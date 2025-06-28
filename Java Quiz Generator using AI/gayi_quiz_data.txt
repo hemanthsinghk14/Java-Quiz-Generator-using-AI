@@ -1,0 +1,9 @@
+QUIZ DATA EXPORT
+================
+Username: gayi
+Total Quizzes: 5
+Average Score: 34.0%
+Best Score: 100.0%
+Total Questions: 40
+
+Quiz History:
